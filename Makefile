@@ -1,4 +1,4 @@
-default: test
+default: install
 
-test:
+install:
 	cc -o out/hey src/hey.c

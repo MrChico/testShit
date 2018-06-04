@@ -1,4 +1,4 @@
 default: test
 
 test:
-	gcc -o out/hey src/hey.c
+	cc -o out/hey src/hey.c
